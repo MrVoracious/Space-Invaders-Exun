@@ -276,8 +276,8 @@ body{
 }
 
 iframe{
-  width: 880px;
-  height: 495px;
+  width: 64vw;
+  height: 36vw;
   transition: 400ms ease all;
 }
 
